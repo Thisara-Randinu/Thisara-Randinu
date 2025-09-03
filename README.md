@@ -1,206 +1,231 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Thisara%20Randinu&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0x667eea,0x764ba2&height=200&section=header&text=Thisara%20Randinu&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20•%20Aspiring%20AI%20Engineer%20•%20Royal%20College&descAlignY=51&descAlign=62" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Neural+Network+Architect;Data+Science+Expert;Innovation+Driven+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=80&lines=👋+Hi%2C+I'm+learning+AI+%26+ML!;🎓+Student+at+Royal+College;🚀+Building+the+future%2C+one+model+at+a+time;🌟+From+Colombo%2C+Sri+Lanka" alt="Typing Animation" />
 
 </div>
 
+<br>
+
+<!-- Modern Social Links -->
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/thisara-randinu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=firefox)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:your.email@example.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat-square&logo=kaggle)](https://kaggle.com/thisararandinu)
+  
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/thisara-randinu)
+  [![](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=About.me&logoColor=white&labelColor=764ba2)](https://your-portfolio.com)
+  [![](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c71610)](mailto:your.email@example.com)
+  [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0b6fa8)](https://kaggle.com/thisararandinu)
 
 </div>
 
----
+<br>
 
-## 🤖 Professional Profile
+<!-- Profile Section -->
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%">
 
-```python
-class EliteAIEngineer:
-    def __init__(self):
-        self.name = "Thisara Randinu"
-        self.location = "Sri Lanka 🇱🇰"
-        self.title = "Senior AI/ML Engineer & Research Specialist"
-        self.expertise = [
-            "Advanced Machine Learning Architecture",
-            "Deep Neural Network Design",
-            "Computer Vision & NLP Solutions", 
-            "Production AI System Deployment",
-            "Research & Development Leadership"
-        ]
-        self.achievements = "Building next-generation AI solutions"
-        
-    def get_vision(self):
-        return "Transforming industries through intelligent automation"
+```typescript
+interface StudentProfile {
+  name: string;
+  school: string;
+  location: string;
+  currentlyLearning: string[];
+  interests: string[];
+  goal: string;
+}
 
-engineer = EliteAIEngineer()
-print(f"Mission: {engineer.get_vision()}")
+const thisara: StudentProfile = {
+  name: "Thisara Randinu",
+  school: "Royal College, Colombo 07 🏫",
+  location: "Sri Lanka 🇱🇰",
+  currentlyLearning: [
+    "Machine Learning Fundamentals",
+    "Python for Data Science",
+    "Web Development",
+    "Neural Networks (just started!)"
+  ],
+  interests: [
+    "AI & Technology",
+    "Problem Solving", 
+    "Mathematics",
+    "Innovation"
+  ],
+  goal: "Become an AI Engineer who builds meaningful solutions"
+};
 ```
 
-### 🎯 Core Specializations
+</td>
+<td width="45%">
 
-- 🧠 **Advanced Model Training**: Custom neural architectures for specialized domains
-- 🔬 **AI Research**: Publishing-quality experiments and innovations
-- 🏗️ **MLOps Excellence**: Scalable, production-ready AI pipelines
-- 📊 **Data Science Leadership**: Complex analytics and predictive modeling
-- 🌐 **Full-Stack AI Integration**: End-to-end intelligent applications
-- ☁️ **Cloud AI Solutions**: Enterprise-grade scalable deployments
+<img src="https://github-readme-stats.vercel.app/api?username=Thisara-Randinu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117,667eea,764ba2&title_color=fff&icon_color=fff&text_color=fff&hide=issues&custom_title=🚀%20Learning%20Journey" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
 
 ---
 
-## 🛠️ Technology Excellence
+## 🎯 Current Learning Path
 
 <div align="center">
 
-### 🧬 AI/ML Mastery
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-Professional-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-Specialist-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### 🐍 Programming Excellence  
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Professional-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 📊 Data Science Stack
-![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Advanced-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Professional-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Specialist-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-Professional-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisara-Randinu&custom_title=📈%20Daily%20Learning%20Progress&bg_color=0D1117&color=667eea&line=764ba2&point=fff&area=true&hide_border=true" />
 
 </div>
 
+<br>
+
+<!-- Learning Stack -->
+<div align="center">
+
+### 🧠 Currently Exploring
+
+<!-- AI/ML -->
+<details>
+<summary><b>🤖 AI & Machine Learning (Learning)</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" />
+</p>
+</details>
+
+<!-- Web Development -->
+<details>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" />
+</p>
+</details>
+
+<!-- Tools -->
+<details>
+<summary><b>🛠️ Development Tools</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black&labelColor=F9AB00" />
+</p>
+</details>
+
+</div>
+
+<br>
+
 ---
 
-## 📊 Performance Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Thisara-Randinu&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&hide=issues,contribs&custom_title=Professional%20Metrics&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara-Randinu&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,scss,less&langs_count=6&custom_title=Technical%20Expertise"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thisara-Randinu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117,667eea&title_color=fff&icon_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide=issues&custom_title=📊%20Coding%20Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara-Randinu&layout=compact&theme=react&hide_border=true&bg_color=0D1117,764ba2&title_color=fff&text_color=fff&langs_count=6&custom_title=💻%20Languages"/>
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara-Randinu&theme=algolia&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara-Randinu&theme=highcontrast&hide_border=true&background=45,667eea,764ba2&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff" />
 
 </div>
 
----
-
-## 🏆 Professional Recognition
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thisara-Randinu&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-
-</div>
+<br>
 
 ---
 
-## 🎨 Innovation Portfolio
+## 🌟 Learning Journey
 
 <div align="center">
 
-### 🚀 AI Excellence Showcase
+### 📚 What I'm Working On
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 Machine Learning Solutions
-- **🔮 Predictive Analytics**: Advanced forecasting models
-- **🎯 Classification Systems**: High-accuracy decision engines  
-- **📊 Recommendation AI**: Personalized content algorithms
-- **🏥 Healthcare AI**: Medical diagnosis assistance tools
+#### 🔬 Current Projects
+- 📊 **Basic Data Analysis**: Learning with real datasets
+- 🤖 **Simple ML Models**: Classification and regression
+- 🌐 **Portfolio Website**: Showcasing my progress
+- 📖 **AI Study Notes**: Documenting my learning
 
 </td>
 <td width="50%">
 
-### 🌐 Production Applications
-- **⚡ Real-time Processing**: Low-latency AI inference
-- **🔄 MLOps Pipelines**: Automated model deployment
-- **📱 Mobile AI**: Edge computing solutions
-- **🌍 Scalable APIs**: Enterprise-grade AI services
+#### 🎯 Short-term Goals
+- ✅ Master Python fundamentals
+- 🔄 Complete online ML course
+- 🚀 Build first AI project
+- 📝 Start contributing to open source
 
 </td>
 </tr>
 </table>
 
-### 📈 Research Impact Areas
+### 🏫 Royal College Pride
 
-```mermaid
-graph LR
-    A[AI Innovation] --> B[Computer Vision]
-    A --> C[NLP & Language Models]
-    A --> D[Deep Learning Research]
-    A --> E[Production AI Systems]
-    
-    B --> B1[🎯 Object Recognition]
-    B --> B2[🏥 Medical Imaging]
-    C --> C1[💬 Conversational AI]
-    C --> C2[📝 Text Analytics]
-    D --> D1[🧬 Novel Architectures]
-    D --> D2[⚡ Model Optimization]
-    E --> E1[🚀 Deployment Excellence]
-    E --> E2[📊 Performance Monitoring]
-```
+<div align="center">
+<img src="https://img.shields.io/badge/Royal%20College-Colombo%2007-1a237e?style=for-the-badge&logoColor=white&labelColor=3f51b5" />
+<img src="https://img.shields.io/badge/Batch-2024/2025-667eea?style=for-the-badge&logoColor=white&labelColor=764ba2" />
+</div>
+
+*Proud to represent the traditions of excellence while embracing modern technology*
 
 </div>
 
+<br>
+
 ---
 
-## 🌟 Professional Excellence
+## 🤝 Connect & Collaborate
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="300">
-<img src="https://github.com/Thisara-Randinu.png" width="150" style="border-radius: 50%; border: 3px solid #58A6FF;" />
-<br />
+<img src="https://github.com/Thisara-Randinu.png" width="150" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 0 20px rgba(102, 126, 234, 0.3);" />
+<br><br>
 <strong>Thisara Randinu</strong>
-<br />
-<em>🎯 AI/ML Engineering Specialist</em>
-<br />
-<em>🔬 Research & Development Lead</em>
-<br />
-<em>🌍 Global Innovation Contributor</em>
-<br />
-📍 Sri Lanka 🇱🇰
+<br>
+<em>🎓 Student & Aspiring AI Engineer</em>
+<br>
+<em>🏫 Royal College, Colombo 07</em>
+<br>
+<em>📍 Sri Lanka 🇱🇰</em>
 </td>
-<td width="450">
+<td width="400">
 
-### 🤝 Collaboration Excellence
+### 🌱 Looking For
 
-- 🔬 **Research Leadership**: Spearheading cutting-edge AI projects
-- 🏢 **Enterprise Solutions**: Fortune 500 AI implementations  
-- 🎓 **Knowledge Leadership**: Training next-generation AI talent
-- 🌍 **Global Impact**: International AI project contributions
-- 📊 **Consulting Excellence**: Strategic AI transformation guidance
+- 👥 **Study Partners**: Fellow AI/ML learners
+- 🤝 **Mentorship**: Guidance from experienced developers  
+- 💡 **Project Collaborations**: Learning through building
+- 🎓 **Learning Opportunities**: Courses, workshops, hackathons
 
-### 🎯 Professional Goals 2024-2025
-- ✅ **Advanced Research**: Publishing breakthrough AI methodologies
-- ✅ **Open Source Impact**: Contributing to major ML frameworks
-- ✅ **Industry Recognition**: Speaking at international AI conferences
-- ✅ **Startup Innovation**: Founding AI-first technology ventures
+### 📫 Let's Connect!
+
+I'm always excited to connect with fellow learners and developers!
+
+🌟 *"Every expert was once a beginner"* 🌟
 
 </td>
 </tr>
@@ -208,43 +233,33 @@ graph LR
 
 </div>
 
----
+<br>
 
-## 📞 Professional Network
+---
 
 <div align="center">
 
-### 🤝 Connect for Opportunities
+### 💭 Student Mindset
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thisara-randinu)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Competition%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/thisararandinu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Innovation%20Showcase-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Direct%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+> *"I may be just starting my AI journey, but every great innovation begins with curiosity and determination."*
 
+### 🎯 Vision for 2025
+
+**Building a strong foundation in AI/ML while contributing positively to the tech community** 🚀
+
+<br>
+
+<!-- Progress Bars -->
+<div align="center">
+<img src="https://img.shields.io/badge/Python-Learning%20📈-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Exploring%20🔍-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Dev-Practicing%20💻-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
----
+<br>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Thisara-Randinu&color=667eea&style=for-the-badge&label=PROFILE+VISITS" />
 
-### 💭 Innovation Philosophy
-
-*"The most powerful AI solutions are those that seamlessly integrate human insight with machine intelligence."*
-
-### 🌟 Mission Statement
-
-**Developing AI systems that don't just process data, but truly understand and solve complex human challenges** 🚀
-
----
-
-### 🎖️ Professional Commitment
-
-**🔬 Research Excellence** • **🏗️ Production Quality** • **🌍 Global Impact** • **🤝 Knowledge Sharing**
-
----
-
-<img src="https://komarev.com/ghpvc/?username=Thisara-Randinu&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0x667eea,0x764ba2&height=120&section=footer" />
 
 </div>
