@@ -1,193 +1,214 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0x667eea,0x764ba2&height=200&section=header&text=Thisara%20Randinu&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20•%20Aspiring%20AI%20Engineer%20•%20Royal%20College&descAlignY=51&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Thisara%20Randinu&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20•%20Next.js%20Specialist&descAlignY=60&descAlign=50&descSize=18" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%26+React+Expert+%E2%9A%A1;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Building+Scalable+Web+Solutions+%F0%9F%8C%90)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thisara-randinu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thisara-randinu.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisara.randinu@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/thisararandinu)
 
 </div>
 
-<div align="center">
-
-<!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=80&lines=👋+Hi%2C+I'm+learning+AI+%26+ML!;🎓+Student+at+Royal+College;🚀+Building+the+future%2C+one+model+at+a+time;🌟+From+Colombo%2C+Sri+Lanka" alt="Typing Animation" />
-
-</div>
-
-<br>
-
-<!-- Modern Social Links -->
-<div align="center">
-  
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/thisara-randinu)
-  [![](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=About.me&logoColor=white&labelColor=764ba2)](https://your-portfolio.com)
-  [![](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c71610)](mailto:your.email@example.com)
-  [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0b6fa8)](https://kaggle.com/thisararandinu)
-
-</div>
-
-<br>
-
-<!-- Profile Section -->
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
+<!-- Hero Section -->
+<table align="center">
 <tr>
-<td width="55%">
+<td width="60%">
 
 ```typescript
-interface StudentProfile {
+interface DeveloperProfile {
   name: string;
-  school: string;
+  role: string;
   location: string;
-  currentlyLearning: string[];
-  interests: string[];
-  goal: string;
+  expertise: string[];
+  specialization: string[];
+  currentFocus: string;
 }
 
-const thisara: StudentProfile = {
+const thisara: DeveloperProfile = {
   name: "Thisara Randinu",
-  school: "Royal College, Colombo 07 🏫",
-  location: "Sri Lanka 🇱🇰",
-  currentlyLearning: [
-    "Machine Learning Fundamentals",
-    "Python for Data Science",
-    "Web Development",
-    "Neural Networks (just started!)"
+  role: "Full-Stack Developer & AI Engineer",
+  location: "Colombo, Sri Lanka 🇱🇰",
+  expertise: [
+    "Next.js & React Development",
+    "TypeScript & JavaScript (ES6+)",
+    "Machine Learning & AI",
+    "Full-Stack Architecture"
   ],
-  interests: [
-    "AI & Technology",
-    "Problem Solving", 
-    "Mathematics",
-    "Innovation"
+  specialization: [
+    "Modern Web Applications",
+    "AI-Powered Solutions", 
+    "Performance Optimization",
+    "Scalable Backend Systems"
   ],
-  goal: "Become an AI Engineer who builds meaningful solutions"
+  currentFocus: "Building next-gen AI applications with React"
 };
 ```
 
 </td>
-<td width="45%">
+<td width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thisara-Randinu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117,667eea,764ba2&title_color=fff&icon_color=fff&text_color=fff&hide=issues&custom_title=🚀%20Learning%20Journey" />
+<img src="https://github-readme-stats.vercel.app/api?username=Thisara-Randinu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&hide=issues&custom_title=⚡%20Development%20Stats" />
 
 </td>
 </tr>
 </table>
-</div>
-
-<br>
 
 ---
 
-## 🎯 Current Learning Path
+## 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisara-Randinu&custom_title=📈%20Daily%20Learning%20Progress&bg_color=0D1117&color=667eea&line=764ba2&point=fff&area=true&hide_border=true" />
+### Frontend Mastery
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Cloud & DevOps
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-<br>
-
-<!-- Learning Stack -->
-<div align="center">
-
-### 🧠 Currently Exploring
-
-<!-- AI/ML -->
-<details>
-<summary><b>🤖 AI & Machine Learning (Learning)</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" />
-</p>
-</details>
-
-<!-- Web Development -->
-<details>
-<summary><b>🌐 Web Development</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" />
-</p>
-</details>
-
-<!-- Tools -->
-<details>
-<summary><b>🛠️ Development Tools</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black&labelColor=F9AB00" />
-</p>
-</details>
-
-</div>
-
-<br>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thisara-Randinu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117,667eea&title_color=fff&icon_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide=issues&custom_title=📊%20Coding%20Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara-Randinu&layout=compact&theme=react&hide_border=true&bg_color=0D1117,764ba2&title_color=fff&text_color=fff&langs_count=6&custom_title=💻%20Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thisara-Randinu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true&count_private=true&custom_title=🚀%20Coding%20Metrics"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara-Randinu&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&custom_title=💻%20Tech%20Stack"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara-Randinu&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" />
 
 </div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara-Randinu&theme=highcontrast&hide_border=true&background=45,667eea,764ba2&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff" />
-
-</div>
-
-<br>
 
 ---
 
-## 🌟 Learning Journey
+## 🎯 Professional Expertise
 
-<div align="center">
-
-### 📚 What I'm Working On
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-#### 🔬 Current Projects
-- 📊 **Basic Data Analysis**: Learning with real datasets
-- 🤖 **Simple ML Models**: Classification and regression
-- 🌐 **Portfolio Website**: Showcasing my progress
-- 📖 **AI Study Notes**: Documenting my learning
+### 🚀 **Next.js Applications**
+- Server-Side Rendering (SSR)
+- Static Site Generation (SSG)
+- API Routes & Middleware
+- Advanced Optimization
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-#### 🎯 Short-term Goals
-- ✅ Master Python fundamentals
-- 🔄 Complete online ML course
-- 🚀 Build first AI project
-- 📝 Start contributing to open source
+### 🤖 **AI Integration**
+- Machine Learning Models
+- Natural Language Processing
+- Computer Vision Projects
+- AI-Powered Web Apps
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### ⚡ **Performance Focus**
+- Core Web Vitals
+- Lighthouse Scores 95+
+- Bundle Size Optimization
+- Caching Strategies
+
+</td>
+<td width="50%" align="center">
+
+### 🎨 **Modern UI/UX**
+- Responsive Design
+- Micro-interactions
+- Accessibility (WCAG)
+- Design Systems
 
 </td>
 </tr>
 </table>
 
-### 🏫 Royal College Pride
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
-<img src="https://img.shields.io/badge/Royal%20College-Colombo%2007-1a237e?style=for-the-badge&logoColor=white&labelColor=3f51b5" />
-<img src="https://img.shields.io/badge/Batch-2024/2025-667eea?style=for-the-badge&logoColor=white&labelColor=764ba2" />
+
+### 💼 **Available For**
+- Full-Stack Development Projects
+- AI/ML Consulting
+- Technical Mentoring
+- Open Source Collaboration
+
+### 🌟 **Current Focus**
+*Building scalable Next.js applications with AI integration*
+
+![Next.js](https://img.shields.io/badge/Next.js-Production%20Ready%20🚀-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-Advanced%20🤖-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Performance](https://img.shields.io/badge/Performance-Optimized%20⚡-4CAF50?style=for-the-badge&logo=lighthouse&logoColor=white)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Thisara-Randinu&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
+
 </div>
 
-*Proud to represent the traditions of excellence while embracing modern technology*
+---
+
+## 🌟 Professional Highlights
+
+<div align="center">
+
+### 💼 **Development Expertise**
+
+<div align="center">
+<img src="https://img.shields.io/badge/Next.js-Expert%20Level-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/AI/ML-Specialized-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</div>
+
+### 🏆 **Technical Achievements**
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Web%20Performance-95%2B%20Lighthouse-4CAF50?style=for-the-badge" />
+<br><em>Optimized Applications</em>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Projects-10%2B%20Deployed-2196F3?style=for-the-badge" />
+<br><em>Production Ready</em>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Response%20Time-%3C100ms-FF9800?style=for-the-badge" />
+<br><em>API Excellence</em>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -195,37 +216,40 @@ const thisara: StudentProfile = {
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🤝 Professional Network
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="300">
-<img src="https://github.com/Thisara-Randinu.png" width="150" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 0 20px rgba(102, 126, 234, 0.3);" />
+<img src="https://github.com/Thisara-Randinu.png" width="180" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 30px rgba(0, 217, 255, 0.4);" />
 <br><br>
-<strong>Thisara Randinu</strong>
+<strong style="font-size: 1.2em;">Thisara Randinu</strong>
 <br>
-<em>🎓 Student & Aspiring AI Engineer</em>
+<em>🚀 Full-Stack Developer</em>
 <br>
-<em>🏫 Royal College, Colombo 07</em>
+<em>🤖 AI Engineer</em>
 <br>
-<em>📍 Sri Lanka 🇱🇰</em>
+<em>⚡ Next.js Specialist</em>
+<br>
+<em>📍 Colombo, Sri Lanka 🇱🇰</em>
 </td>
 <td width="400">
 
-### 🌱 Looking For
+### 🤝 **Open for Collaboration**
 
-- 👥 **Study Partners**: Fellow AI/ML learners
-- 🤝 **Mentorship**: Guidance from experienced developers  
-- 💡 **Project Collaborations**: Learning through building
-- 🎓 **Learning Opportunities**: Courses, workshops, hackathons
+- 💼 **Freelance Projects**: Full-stack development
+- 🚀 **Startup Partnerships**: Technical co-founding
+- 🔬 **Research Collaboration**: AI/ML applications
+- 🎓 **Mentoring**: Web development guidance
 
-### 📫 Let's Connect!
+### 📈 **Services Offered**
 
-I'm always excited to connect with fellow learners and developers!
-
-🌟 *"Every expert was once a beginner"* 🌟
+- 🌐 **Modern Web Applications** (Next.js, React)
+- 🤖 **AI-Powered Solutions** (ML integration)
+- ⚡ **Performance Optimization** (Core Web Vitals)
+- 🎨 **UI/UX Development** (Responsive design)
 
 </td>
 </tr>
@@ -239,27 +263,45 @@ I'm always excited to connect with fellow learners and developers!
 
 <div align="center">
 
-### 💭 Student Mindset
+### 💡 **Innovation Mindset**
 
-> *"I may be just starting my AI journey, but every great innovation begins with curiosity and determination."*
+> *"Crafting digital experiences that blend cutting-edge technology with human-centered design."*
 
-### 🎯 Vision for 2025
+### 🚀 **2024 Focus Areas**
 
-**Building a strong foundation in AI/ML while contributing positively to the tech community** 🚀
+**Advancing AI integration in web applications • Building scalable Next.js solutions • Open source contributions** 
 
 <br>
 
-<!-- Progress Bars -->
 <div align="center">
-<img src="https://img.shields.io/badge/Python-Learning%20📈-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring%20🔍-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Web%20Dev-Practicing%20💻-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-Production%20Ready%20🚀-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Integration-Advanced%20🤖-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance-Optimized%20⚡-4CAF50?style=for-the-badge&logo=lighthouse&logoColor=white" />
 </div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Thisara-Randinu&color=667eea&style=for-the-badge&label=PROFILE+VISITS" />
+<img src="https://komarev.com/ghpvc/?username=Thisara-Randinu&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0x667eea,0x764ba2&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
+
+</div>
+### 🚀 **2024 Focus Areas**
+
+**Advancing AI integration in web applications • Building scalable Next.js solutions • Open source contributions** 
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Next.js-Production%20Ready%20🚀-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Integration-Advanced%20🤖-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance-Optimized%20⚡-4CAF50?style=for-the-badge&logo=lighthouse&logoColor=white" />
+</div>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Thisara-Randinu&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
 
 </div>
