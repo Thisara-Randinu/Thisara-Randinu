@@ -7,5 +7,9 @@
 	<br>
 	<a href="https://thisara-randinu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 	<a href="https://linkedin.com/in/thisara-randinu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-	<a href="mailto:thisara.randinu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+		<a href="mailto:thisara.randinu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+		<br><br>
+	<!-- Animated SVG Objects Section -->
+	<img src="https://svgwave.in/svg-wave?type=wave&color1=00D9FF&color2=232526&height=120&width=400" alt="Animated Wave" width="400" />
 </div>
