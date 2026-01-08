@@ -1,15 +1,115 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Thisara%20Randinu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=Full-Stack%20Dev%20%7C%20AI%20Engineer%20%7C%20Next.js%20Specialist&descAlignY=80&descAlign=50&descSize=18" />
-	<br>
-	<img src="https://github.com/Thisara-Randinu.png" width="100" style="border-radius: 50%; border: 3px solid #00D9FF; box-shadow: 0 0 20px #00D9FF55;" />
-	<br>
-	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=500&height=40&lines=Next.js+Expert;React+%26+TypeScript+Pro;AI+%26+ML+Engineer;Building+Scalable+Web+Apps" />
-	<br>
-	<a href="https://thisara-randinu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-	<a href="https://linkedin.com/in/thisara-randinu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-		<a href="mailto:trandinu@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
+# 👋 Hi, I'm Thisara Randinu
 
-		<br><br>
-	<!-- Animated SVG Objects Section -->
-	<img src="https://svgwave.in/svg-wave?type=wave&color1=00D9FF&color2=232526&height=120&width=400" alt="Animated Wave" width="400" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3DAEF7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate developer who loves building innovative solutions and exploring cutting-edge technologies. I believe in writing clean, maintainable code and creating meaningful digital experiences.
+
+- 🔭 Currently working on exciting projects
+- 🌱 Constantly learning and expanding my skill set
+- 💡 Open to collaborating on interesting projects
+- 📫 Let's connect and build something amazing together
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  [![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-181717?style=for-the-badge)](https://github.com/Thisara-Randinu)
+  
+  **📈 Check out my GitHub profile for detailed statistics**
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara-Randinu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisara-Randinu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<!-- ## 🏆 GitHub Trophies
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Thisara-Randinu&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+</div> -->
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Show some ❤️ by starring some of the repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Thisara-Randinu&color=blue&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+_"Code is like humor. When you have to explain it, it's bad." – Cory House_
+
 </div>
